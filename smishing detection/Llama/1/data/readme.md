@@ -1,0 +1,2 @@
+In this experiment, the [SMS Smishing Collection v.1 dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) was used - the same as in the experiment [ChatGPT/1](..\ChatGPT\1).
+To ensure comparability between the experiments, exactly the same test and train subsets were used.
